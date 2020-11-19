@@ -1,6 +1,6 @@
 <?php
 
-namespace Enum;
+namespace CoderHe\Enum;
 
 class CommonEnum extends BaseEnum
 {

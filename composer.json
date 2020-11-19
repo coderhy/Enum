@@ -24,7 +24,7 @@
     },
     "autoload": {
         "psr-4": {
-            "phperhy\\enum\\": "src"
+            "CoderHe\\enum\\": "src"
         }
     }
 }
