@@ -6,6 +6,7 @@
         }
     },
     "name": "coderhy/enum",
+    "type":"library",
     "description": "A simple library to enum",
     "homepage": "https://github.com/coderhy",
     "keywords": [
