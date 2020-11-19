@@ -1,5 +1,5 @@
 {
-    "name": "phperhy/Enum",
+    "name": "coderhy/Enum",
     "description": "A simple library to encode and decode JSON Web Tokens (JWT) in PHP. Should conform to the current spec.",
     "homepage": "https://github.com/phperhy/Enum",
     "keywords": [
@@ -8,7 +8,7 @@
     ],
     "authors": [
         {
-            "name": "CoderHe",
+            "name": "coderhe",
             "email": "suprehe@qq.com",
         }
     ],
