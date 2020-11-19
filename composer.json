@@ -1,4 +1,10 @@
 {
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    },
     "name": "coderhy/enum",
     "description": "A simple library to enum.",
     "homepage": "https://github.com/coderhy/Enum",
@@ -12,7 +18,7 @@
             "email": "suprehe@qq.com"
         }
     ],
-    "license": "TIM",
+    "license": "Apache-2.0",
     "require": {
         "php": ">=5.3.0"
     },
